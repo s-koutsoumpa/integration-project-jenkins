@@ -20,5 +20,5 @@ services:
       - project-network
 
 networks:
-  mynetwork:
+  project-network:
     external: true
